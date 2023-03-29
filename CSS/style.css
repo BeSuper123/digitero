@@ -41,7 +41,6 @@ ul li {
   float: left;
   line-height: 60px;
   transition: transform .80s;
-  width: auto;
 }
 
 ul li :hover {
